@@ -1,0 +1,35 @@
+.background {
+  viewport-fill: black;
+}
+
+.color--main {
+  fill: "#518eef";
+}
+
+.color--highlight {
+  fill: "white";
+}
+
+.color--hour {
+  fill: "#1755b7";
+}
+
+.minute-marker {
+  fill: "#767b84";
+}
+
+.date-marker {
+  fill: "#767b84";
+}
+
+.step-marker {
+  fill: "#767b84";
+}
+
+.battery-marker {
+  fill: "#767b84";
+}
+
+.hour-marker {
+  fill: "#518eef";
+}
